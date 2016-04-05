@@ -1,0 +1,1 @@
+Order [id=10, user=User [username=andreea, password=roxana], product=Product [name=lipstick, price=20], quantity=10]
